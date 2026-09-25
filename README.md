@@ -66,15 +66,6 @@ I am learning to write the Python myself rather than only read it.
 
 ---
 
-### Training
-
-**Pracīna Final Examination** — The Oriental Studies Society of Sri Lanka,
-Ministry of Education (2017). Sinhala, Pali and Sanskrit: grammar, prescribed
-texts, literary history, prosody, and logic. Recognised as equivalent to a BA
-from a UGC-approved university in Sri Lanka.
-
----
-
 ### Currently
 
 [one line — what you're working on or reading]

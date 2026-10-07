@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mihindupurasujeewa2023@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujeewamihindupura)
 
-I like to build AI tools and learn about AI & machine learning, further. Accordingly, I build my first project; A rRetrieval-Augmented Generation system (RAG) for the Pali Dhammapada.
+I like to build AI tools and learn about AI & machine learning, further. Accordingly, I build my first project; A Retrieval-Augmented Generation system (RAG) for the Pali Dhammapada.
 
 A system that cannot tell a canonical verse from a fifth-century gloss on it
 is not simplifying the tradition — it is quietly rewriting it.
